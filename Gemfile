@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
+<<<<<<< HEAD
 ruby '2.0.0'
+=======
+ruby '1.9.3'
+>>>>>>> db814c4dc5cef3937e96719fcf53d44bb30d54ef
 #ruby-gemset=railstutorial_rails_4_0
 
 gem 'rails', '4.0.2'
@@ -28,4 +32,8 @@ end
 group :production do
   gem 'pg', '0.15.1'
   gem 'rails_12factor', '0.0.2'
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> db814c4dc5cef3937e96719fcf53d44bb30d54ef
